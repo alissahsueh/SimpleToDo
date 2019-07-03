@@ -18,7 +18,7 @@ import java.nio.charset.Charset;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
-
+    // Here is a random comment :P
     //dec;laring stateful objects here; these will be null before onCreate is called
     ArrayList<String> items;
     ArrayAdapter<String> itemsAdapter;
