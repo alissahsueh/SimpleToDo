@@ -17,6 +17,7 @@ import java.io.IOException;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
 
+// This is my comment ;)
 public class MainActivity extends AppCompatActivity {
 
     //dec;laring stateful objects here; these will be null before onCreate is called
