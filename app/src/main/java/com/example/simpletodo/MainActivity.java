@@ -98,3 +98,21 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 }
+
+/**
+ * activity --> essentially the main container for screen; main building blocks; adding is one activity and edit is considered another activity; includes UI
+ * setContentView --> content of activity
+ * intent -->
+ *
+ * life cycle --> need to be efficient with resources
+ * onCreate --> setting layout of the screen initially
+ * onStart --> can start heavy activities like GPS location services
+ * onResume --> before activity appears in screen, final warning before screen appears for user
+ * onPause --> certain actions will be freed and also save previous inputs
+ *
+ */
+
+
+
+
+//HELLOOOOOOOO THIS IS ALISSA :)
